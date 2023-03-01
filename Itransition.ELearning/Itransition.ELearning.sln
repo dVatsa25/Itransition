@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Itransition.Web.Service", "Itransition.Web.Service\Itransition.Web.Service.csproj", "{27CA2E1F-2E4A-4889-91C8-3F027AE1D7C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27CA2E1F-2E4A-4889-91C8-3F027AE1D7C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CA2E1F-2E4A-4889-91C8-3F027AE1D7C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CA2E1F-2E4A-4889-91C8-3F027AE1D7C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CA2E1F-2E4A-4889-91C8-3F027AE1D7C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2E97782-BF48-4B35-8A60-377EBCEB178E}
+	EndGlobalSection
+EndGlobal

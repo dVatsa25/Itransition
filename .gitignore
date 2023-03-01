@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Itransition.ELearning/Itransition.Web.Service/obj/Debug/net6.0
+/Itransition.ELearning/Itransition.Web.Service/obj
+/Itransition.ELearning/.vs/Itransition.ELearning
+/.vs
