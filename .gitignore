@@ -7,3 +7,9 @@
 /Itransition.ELearning/.vs/Itransition.ELearning
 /.vs
 /Itransition.ELearning/.vs/ProjectEvaluation
+/Itransition.ELearning/ITransition.ELearning.BusinessLayer/obj
+/Itransition.ELearning/ITransition.ELearning.BusinessObject/obj
+/Itransition.ELearning/ITransition.ELearning.DataAccessLayer/obj
+/Itransition.ELearning/ITransition.ELearning.DataAccessLayer/bin/Debug/net6.0
+/Itransition.ELearning/TestConsole/bin/Debug/net6.0
+/Itransition.ELearning/TestConsole/obj
