@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITransition.ELearning.DataA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{DF4194E8-E275-42DA-B0E9-B302ADA5E6B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITransition.ELearning.Web", "ITransition.ELearning.Web\ITransition.ELearning.Web.csproj", "{39AE5471-4D03-428C-AB95-2B0529E06E70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DF4194E8-E275-42DA-B0E9-B302ADA5E6B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF4194E8-E275-42DA-B0E9-B302ADA5E6B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF4194E8-E275-42DA-B0E9-B302ADA5E6B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39AE5471-4D03-428C-AB95-2B0529E06E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39AE5471-4D03-428C-AB95-2B0529E06E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39AE5471-4D03-428C-AB95-2B0529E06E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39AE5471-4D03-428C-AB95-2B0529E06E70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
